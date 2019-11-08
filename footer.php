@@ -27,7 +27,7 @@
 
 				<aside id="footer-widget-1" class="widget-area">
 					<?php dynamic_sidebar( 'footer-sidebar-1' ); ?>
-				</aside>				
+				</aside>
 			</div>
 
 			<div class="footer-inner-bottom">
@@ -82,9 +82,9 @@
 		=            THIS IS FOR DEBUGGING. PLZ DISABLE WHEN READY TO PUBLISH            =
 		===============================================================================-->
 
-		<div style="color: black"><strong>Current template:</strong>
-			<?php echo get_current_template( true ); ?>
-		</div>
+		<!-- <div style="color: black"><strong>Current template:</strong> -->
+			<!-- <?php // echo get_current_template( true ); ?> -->
+		<!-- </div> -->
 
 		<!-- ====  End of THIS IS FOR DEBUGGING. PLZ DISABLE WHEN READY TO PUBLISH  ==== -->
 

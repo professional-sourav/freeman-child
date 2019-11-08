@@ -9,6 +9,7 @@
 	-webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.50);
 	-moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.50);
 	box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.50);
+	background: rgba(217,232,199, 0.9) !important;
 
 	&.fixed-top{
 
@@ -58,7 +59,7 @@
 
 
 	.navbar {
-		background: rgba( $white, .9 );
+		background: transparent !important;
 		height: 100px;
 
 		.navbar-brand {

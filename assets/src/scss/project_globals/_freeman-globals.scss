@@ -71,11 +71,13 @@
     @media (max-width: 1920px) {
 
         top: 256px !important;
+        position: absolute !important;
     }
 
     @media (max-width: 1440px) {
 
         top: 293px !important;
+        position: absolute !important;
     }
 
     @media (max-width: 1366px) {
@@ -83,21 +85,25 @@
         // top: 266px;
         top: 170px !important;
         right: 48px;
+        position: absolute !important;
     }
 
     @media (max-width: 767px) {
 
         top: 164px !important;
+        position: absolute !important;
     }
 
     @media (max-width: 767px) {
 
         top: 164px !important;
+        position: absolute !important;
     }
 
     @media (max-width: 767px) {
 
         top: 164px !important;
+        position: absolute !important;
     }
 
     @media (min-height: 768px) {
@@ -105,6 +111,7 @@
         // top: 266px;
         top: 30% !important;
         right: 48px;
+        position: absolute !important;
     }
 
     // .thrv_contentbox_shortcode {
@@ -573,6 +580,7 @@
 
             border-radius: 30px;
             text-indent: 0rem;
+            background-color: #68C100;
         }
     }
 }
